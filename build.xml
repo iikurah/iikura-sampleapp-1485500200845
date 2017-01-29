@@ -1,2 +1,6 @@
 <project name="sampleapp" default="jar" basedir=".">
+
+<target name="compile">
+</target> 
+
 </project>
