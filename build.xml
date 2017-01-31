@@ -2,7 +2,7 @@
 
 <target name="compile">
 
-<javac encoding="MS932" debug="true" destdir="target/bpm3" includeantruntime="false" source="1.7"target="1.7">
+<javac encoding="MS932" debug="true" destdir="target/bpm3" includeantruntime="false" source="1.7"　target="1.7">
 	<src path="src"/>
 </javac>
         
