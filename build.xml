@@ -1,15 +1,10 @@
 <project name="sampleapp" default="jar" basedir=".">
 
 <target name="compile">
-<<<<<<< Upstream, based on eda10347f8589a4239201499ce693c3b6794f6cd
-</target> 
-<!--コメント-->
-=======
-<javac encoding="MS932" debug="true" debuglevel="${debuglevel}" destdir="target/bpm3" includeantruntime="false" source="${source}" target="${target}">
+<javac encoding="MS932" debug="true" debuglevel="${debuglevel}" destdir="target/bpm3" includeantruntime="false" source="1.7"target="1.7">
 	<src path="src"/>
 </javac>
         
 </target>
 
->>>>>>> e2bbd24 enquete
 </project>
